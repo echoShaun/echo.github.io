@@ -14,7 +14,7 @@
 hello world
 ### a new start 
 <body>
-    $\lim_{x \to \infty} \exp(-x) = 0 $
+    $ \lim_{x \to \infty} \exp(-x) = 0 $
 </body>
 
 
